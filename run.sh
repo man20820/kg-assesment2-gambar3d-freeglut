@@ -1,4 +1,4 @@
 #!/bin/bash
 
 make
-./maple
+./gambar3d
